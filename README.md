@@ -116,6 +116,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-ChatGPT said:
-
 Hi, I’m Ashutosh Ramesh Bhosale — a passionate tech enthusiast and data professional driven to turn data into insights, innovation, and real-world impact!
