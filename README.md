@@ -36,12 +36,13 @@ This project involves:
 ## 🛠️ Important Links & Tools:
 
 Everything is for Free!
-- **[Datasets](datasets/):** 
-- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** 
-- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):**
+- **[Datasets](datasets/)** 
+- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)** 
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)**
 - **[Git Repository](https://github.com/):**
-- **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
-- **[Notion](https://www.notion.so/SQL-Data-Warehouse-Project-278184f2bd91806e8c87e830f37d32e3?source=copy_link):** Get the Project Template from Notion
+- **[DrawIO](https://www.drawio.com/)** 
+- **[Notion](https://www.notion.so/SQL-Data-Warehouse-Project-278184f2bd91806e8c87e830f37d32e3?source=copy_link):** Project Template
+  
 
 ---
 
